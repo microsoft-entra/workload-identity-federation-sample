@@ -1,1 +1,1 @@
-# workload-identity-federation-sample
+# Workload identity federation sample
